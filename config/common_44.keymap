@@ -93,9 +93,9 @@
             //                           | RSE | SPC | LWR |   | LWR | BKSP | RSE |
 
             bindings = <
-&mt CAPS LEFT_ARROW  &kp ESCAPE      &lt 1 Q  &lt 2 W  &kp E             &kp R             &kp T        &kp Y      &kp U                   &mt PLUS I      &mt NUMBER_1 O  &mt NUMBER_2 P    &mt NUMBER_3 LEFT_BRACKET  &mt RIGHT_BRACKET RIGHT
-                     &kp TAB         &kp A    &kp S    &kp D             &kp F             &kp G        &kp H      &kp J                   &mt MINUS K     &mt NUMBER_4 L  &mt N5 SEMICOLON  &mt NUMBER_6 SQT
-                     &kp LEFT_SHIFT  &kp Z    &kp X    &kp C             &kp V             &kp B        &kp N      &kp M                   &mt N0 COMMA    &mt N7 DOT      &mt N8 FSLH       &mt N9 BSLH
+&mt CAPS LEFT_ARROW  &kp ESCAPE      &lt 1 Q  &lt 2 W  &kp E             &kp R             &kp T        &kp Y      &kp U                   &mt PLUS I          &mt NUMBER_1 O  &mt NUMBER_2 P    &mt NUMBER_3 LEFT_BRACKET  &mt RIGHT_BRACKET RIGHT
+                     &kp TAB         &kp A    &kp S    &kp D             &kp F             &kp G        &kp H      &kp J                   &mt MINUS K         &mt NUMBER_4 L  &mt N5 SEMICOLON  &mt NUMBER_6 SQT
+                     &kp LEFT_SHIFT  &kp Z    &kp X    &kp C             &kp V             &kp B        &kp N      &kp M                   &mt NUMBER_0 COMMA  &mt N7 DOT      &mt N8 FSLH       &mt N9 BSLH
                                                        &kp LEFT_CONTROL  &kp LEFT_COMMAND  &kp SPACE    &kp ENTER  &mt UP_ARROW BACKSPACE  &mt DOWN SLASH
             >;
         };
